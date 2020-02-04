@@ -1,16 +1,23 @@
+# Ionic+Vue ZipFinder
 
   
 
-# Ionic Vue ZipFinder
+US Zipcode finder built using Ionic+Vuejs+PWA
 
-US Zipcode finder built using Ionic+Vuejs
-
+  
+  
 
 ## Code Coverage
 
+  
+
 1. Ionic + Vuejs
 
-2. Progressive Framework
+  
+
+2. Progressive Web App
+
+  
 
   
 
@@ -18,11 +25,11 @@ US Zipcode finder built using Ionic+Vuejs
 
   
 
-```
+  
 
-npm install
+``` npm install ```
 
-```
+  
 
   
 
@@ -32,11 +39,11 @@ npm install
 
   
 
-```
+  
 
-npm run serve
+``` npm run serve ```
 
-```
+  
 
   
 
@@ -46,31 +53,21 @@ npm run serve
 
   
 
-```
+  
 
-npm run build
-
-```
+``` npm run build ```
 
   
 
   
 
-### Lints and fixes files
 
-  
-
-```
-
-npm run lint
-
-```
-
-  
 
   
 
 ### Customize configuration
+
+  
 
   
 
@@ -80,64 +77,71 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
   
 
+  
+
 ### installing ionic
 
-```
-npm install @ionic/vue
+  
 
-```
+``` npm install @ionic/vue ```
+
+  
+  
+
+### installing PWA
+
+  
+``` vue add @vue/pwa ```
+
+
+  
 
 ### installing and configuring firebase
 
-```
+  
 
-npm install firebase-tools -g
+``` npm install firebase-tools -g ``` 
 
-firebase login
+``` firebase login ``` 
 
-firebase project:list
+``` firebase project:list ``` 
 
-firebase init
+```  firebase init ``` 
 
-firebase deploy
+```  firebase deploy ```
 
-```
-
-
-### installing and configuring PWA
-
-```
-
-vue add @vue/pwa
-
-```
   
 
 ### NOTE: export ICON_PATHS warning
 
   
 
+  
+
 if you get the following warning "export ‘ICON_PATHS’ was not found in ‘ionicons/icons’' this fixed it for me:
 
-```
+  
 
-npm install ionicons@4.5.9-1 --save-dev
+``` npm install ionicons@4.5.9-1 --save-dev ```
 
-```
+  
 
   
 
 or you can do
 
-```
+  
 
-npm install @ionic/vue@0.0.9
+``` npm install @ionic/vue@0.0.9 ```
 
-```
-
-
+  
+  
+  
 
 ### References
 
+  
+
 [https://www.youtube.com/watch?v=6H1wftPS0oo](https://www.youtube.com/watch?v=6H1wftPS0oo)
+
 [https://ionicframework.com/docs/components](https://ionicframework.com/docs/components)
