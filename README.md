@@ -5,6 +5,7 @@
 US Zipcode finder built using Ionic+Vuejs+PWA
 
   
+<img src="https://github.com/sgflores/IonicVueZipFinder/blob/master/public/Capture.PNG" />
   
 
 ## Code Coverage
