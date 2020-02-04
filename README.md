@@ -83,9 +83,19 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### installing ionic
 
   
+``` npm install -g @ionic/cli ``` 
 
 ``` npm install @ionic/vue ```
 
+``` ionic init . ```
+
+``` ionic capacitor add android ```
+
+``` ionic capacitor add ios ```
+
+``` ionic build ```
+
+``` ionic capacitor run android ```
   
   
 
@@ -107,9 +117,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ``` firebase project:list ``` 
 
-```  firebase init ``` 
+``` firebase init ``` 
 
-```  firebase deploy ```
+``` firebase deploy ```
 
   
 
